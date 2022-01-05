@@ -29,5 +29,24 @@ body{
     padding-left: 100px;
     }
 
+    .width20 img{ width:70% ;}
 
+    .width01{ 
+        display: flex;
+        background-image: url(image/dream-bg.png);
+        background-position: right;
+        background-repeat: no-repeat;
+        padding-left: 100px;
+        padding-right: 30px;
+        padding-top: 120px;
+        }
+
+        .hire1{
+            text-decoration: none;
+            color: white;
+            padding: 10px 40px;
+            background-image: linear-gradient( #FFA006 ,tomato);
+            border-style: solid;
+            border-radius: 10px;
+        }
 
